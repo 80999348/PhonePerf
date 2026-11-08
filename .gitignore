@@ -1,0 +1,13 @@
+*.iml
+.gradle/
+/local.properties
+/.idea/
+.DS_Store
+/build
+/app/build
+/captures
+.externalNativeBuild
+.cxx
+*.hprof
+# 签名密钥不要提交到仓库（此处仅为本地测试用途保留说明）
+# keystore/
