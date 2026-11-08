@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">手机性能监视</string>
+    <string name="error_title">数据采集失败</string>
+    <string name="retry">重新采集</string>
+    <string name="exit">退出</string>
+    <string name="refresh">立即刷新</string>
+    <string name="copyright">小虫工作室 @2026</string>
+</resources>
