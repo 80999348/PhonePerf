@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg">#0D1117</color>
+    <color name="card">#161B22</color>
+    <color name="track">#2A3038</color>
+
+    <color name="accent">#4C9AFF</color>
+    <color name="mem">#9D7CFF</color>
+    <color name="warn">#F2A93B</color>
+    <color name="danger">#F2545B</color>
+
+    <color name="text_primary">#F0F3F7</color>
+    <color name="text_secondary">#9AA4B2</color>
+    <color name="text_tertiary">#6B7583</color>
+</resources>
